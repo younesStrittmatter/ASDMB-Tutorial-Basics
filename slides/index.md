@@ -1,7 +1,12 @@
 ---
 marp: true
-paginate: False
 ---
+<style>
+    * {
+        color: red
+    }
+    </style>
+
 # ASDMB Tutorial: Basics
 
 ## 1. Setup

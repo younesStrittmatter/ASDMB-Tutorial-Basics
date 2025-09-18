@@ -19,3 +19,14 @@
 - Creata a Github repository from this template
 - Open the repo in codespace
 - Open the [slides/index.md](slides/index.md) file in preview mode and follow instructions
+
+
+--- 
+
+You can see the tuorials in more digestible slides by running:
+
+```shell
+npx --yes @marp-team/marp-cli@latest slides -s --port 3000
+```
+
+and then using the forwarded port in the preview window.
