@@ -3,18 +3,10 @@ marp: true
 ---
 
 <style>
-
     .colored.blue {
         color: blue
-    }
-
-    
-
-
-
-
-    
-    </style>
+    }    
+</style>
     
 
 
