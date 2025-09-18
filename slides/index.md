@@ -3,18 +3,18 @@ marp: true
 paginate: true
 ---
 
-# Workshop
-Roadmap:
-- Step 00: slides only
-- Step 01: project setup
-- Step 02: tests + CLI
-- Step 03: PsyNeuLink demo
 
-## If you get lost:
+# Roadmap
 
-Run in terminal:
+- Step 1: [Setup](setup.md)
+- Step 2: 
 
-```bash
-bash scripts/init-upstream.sh <UPSTREAM_URL>
-bash scripts/goto-step.sh step-01-project-setup
-```
+
+# If you get lost:
+
+
+You can continue on each step by setting your repository to the respective step. To do so, follow the instructions [here](tutorial-checkpoints.md)
+
+
+
+
